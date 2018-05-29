@@ -13,3 +13,4 @@ set scrolloff=4                 " keep 4 lines off the edges of the screen when 
 set hlsearch                    " highlight search terms"
 set incsearch                   " show search matches as you type"
 set rnu
+syntax on
